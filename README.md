@@ -7,4 +7,4 @@ To learn more about our research go to https://compbio.lehigh.edu/GLoSA/
 =================================================================================
 
 G-LoSA and G-LoSA Toolkit are freely available to all academic users and not-for-profit institutions.
-For commercial users, please contact us (wonpil@lehigh.edu or huisun.cadd@gmail.com) to get the license of using this distribution.
+For commercial users, please contact (wonpil@lehigh.edu or huisun.cadd@gmail.com) to get the license of using this distribution.
